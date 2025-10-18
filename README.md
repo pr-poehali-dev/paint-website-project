@@ -1,0 +1,3 @@
+# paint-website-project
+
+Initial repository setup for pr-poehali-dev/paint-website-project
